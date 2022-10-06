@@ -1,0 +1,26 @@
+{
+  "name": "@zee.kim/utils",
+  "private": false,
+  "version": "0.0.1",
+  "description": "utils is a utility library",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinzhe/utils.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Zee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinzhe/utils/issues"
+  },
+  "homepage": "https://zee.kim",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
